@@ -1,4 +1,9 @@
 # StableBattle Contract Deployment Journal 
+#### 12-08-2022
+- Redeploy of the previous version until goerli fix
+##### Mumbai
+- adr: [0x113649edcD815775C3EC2a24Ad25E4fd73C8B1b5](https://mumbai.polygonscan.com/address/0x113649edcD815775C3EC2a24Ad25E4fd73C8B1b5)
+- tx: [0x7f8cc283c582626fe17e7f3ffd1f39bb2c4a34eede9681bf99135ef3f53fa2f3](https://mumbai.polygonscan.com/tx/0x7f8cc283c582626fe17e7f3ffd1f39bb2c4a34eede9681bf99135ef3f53fa2f3)
 #### 22-07-2022
 - Mint & Burn of characters with proper deposit to & withdrawal from AAVE
 - Assigning & claiming of a reward derived from lending pool yield
