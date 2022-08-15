@@ -1,4 +1,9 @@
-# StableBattle Contract Deployment Journal 
+# StableBattle Contract Deployment Journal
+#### 15-08-2022
+- Fixed mismatched addresses in goerli deploy script
+##### Goerli
+- adr: [0x667EBF805f1Ec0f4eF8086609cA46cC4eb072B0c](https://goerli.etherscan.io/address/0x667EBF805f1Ec0f4eF8086609cA46cC4eb072B0c)
+- tx: [0xdb58cc5cca5cced8e1529107479c4cdeb1b380a5fe99f43932595f489711ab38](https://goerli.etherscan.io/tx/0xdb58cc5cca5cced8e1529107479c4cdeb1b380a5fe99f43932595f489711ab38)
 #### 12-08-2022
 - Redeploy of the previous version until goerli fix
 ##### Mumbai
