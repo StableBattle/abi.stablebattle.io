@@ -1,4 +1,11 @@
 # StableBattle Contract Deployment Journal
+#### 23-08-2022
+- Fixed reward caluclation and claim
+- Restricted contract to only use USDT & USDC
+- Minor change to interfaces (now most getters ouput two values instead of one for UDST & USDC respectively)
+#### Goerli
+- adr: [0xc17b19b929CAC38bd9D5cE5b0D54BC770B2DB6fB](https://goerli.etherscan.io/address/0xc17b19b929CAC38bd9D5cE5b0D54BC770B2DB6fB)
+- tx: [0x0fe1630248c718fe01cabe6abb3cc42647ab56fea7daf19a329c4237ff39c406](https://goerli.etherscan.io/tx/0x0fe1630248c718fe01cabe6abb3cc42647ab56fea7daf19a329c4237ff39c406)
 #### 15-08-2022
 - Fixed mismatched addresses in goerli deploy script
 ##### Goerli
