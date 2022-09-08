@@ -13,6 +13,18 @@
         "internalType": "uint256",
         "name": "reward",
         "type": "uint256"
+      },
+      {
+        "indexed": false,
+        "internalType": "enum Pool",
+        "name": "pool",
+        "type": "uint8"
+      },
+      {
+        "indexed": false,
+        "internalType": "enum Coin",
+        "name": "coin",
+        "type": "uint8"
       }
     ],
     "name": "NewWinner",
@@ -32,6 +44,18 @@
         "internalType": "uint256",
         "name": "reward",
         "type": "uint256"
+      },
+      {
+        "indexed": false,
+        "internalType": "enum Pool",
+        "name": "pool",
+        "type": "uint8"
+      },
+      {
+        "indexed": false,
+        "internalType": "enum Coin",
+        "name": "coin",
+        "type": "uint8"
       }
     ],
     "name": "RewardClaimed",

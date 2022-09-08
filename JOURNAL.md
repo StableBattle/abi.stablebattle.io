@@ -3,11 +3,11 @@
 ##### [v0.0.2](https://github.com/StableBattle/StableBattleDiamond/tree/0.0.2)
 - Changed DemoFight to prioritze single-coin intercation
 ##### Mumbai
-- adr: [0x627bf2Edf0d88c7bafBd7a167C7Fd6574ddc39a4](https://mumbai.polygonscan.com/address/0x627bf2Edf0d88c7bafBd7a167C7Fd6574ddc39a4)
-- tx: [0x3b7611467b9f04011c58b74418c43cf33b331c2577e52cd1e62d6829ce81d8e0](https://mumbai.polygonscan.com/tx/0x3b7611467b9f04011c58b74418c43cf33b331c2577e52cd1e62d6829ce81d8e0)
+- adr: [0xB7E653d96CC7Ce2F27e70B81E266dd0B21d3ac26](https://mumbai.polygonscan.com/address/0xB7E653d96CC7Ce2F27e70B81E266dd0B21d3ac26)
+- tx: [0x93def69091ec23cceb636807d5b4bd2fc2b918f475b71bedf07bb13036901ed2](https://mumbai.polygonscan.com/tx/0x93def69091ec23cceb636807d5b4bd2fc2b918f475b71bedf07bb13036901ed2)
 ##### Goerli
-- adr: [0x68e6F821f6558656Bb688Eb82955e0FD91746151](https://goerli.etherscan.io/address/0x68e6F821f6558656Bb688Eb82955e0FD91746151)
-- tx: [0xcb5e5da87f470913f6b208b3b7fc5abae2e641776ca319fa7b96d460d40405ae](https://goerli.etherscan.io/tx/0xcb5e5da87f470913f6b208b3b7fc5abae2e641776ca319fa7b96d460d40405ae)
+- adr: [0xfAc3069d0254e70D20F4287CB3C79bcCa22fee4B](https://goerli.etherscan.io/address/0xfAc3069d0254e70D20F4287CB3C79bcCa22fee4B)
+- tx: [0xfc67002e2e2fffc82f1beac2c71397cc04970fa1e69b5080abfe42339e7bdbe1](https://goerli.etherscan.io/tx/0xfc67002e2e2fffc82f1beac2c71397cc04970fa1e69b5080abfe42339e7bdbe1)
 #### 02-09-2022
 ##### [v0.0.1](https://github.com/StableBattle/StableBattleDiamond/tree/0.0.1)
 - Redeploy of the last version into both goerli & mumbai
