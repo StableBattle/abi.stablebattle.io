@@ -1,11 +1,20 @@
 # StableBattle Contract Deployment Journal
+#### 08-09-2022
+##### [v0.0.2](https://github.com/StableBattle/StableBattleDiamond/tree/0.0.2)
+- Changed DemoFight to prioritze single-coin intercation
+##### Mumbai
+- adr: [0x627bf2Edf0d88c7bafBd7a167C7Fd6574ddc39a4](https://mumbai.polygonscan.com/address/0x627bf2Edf0d88c7bafBd7a167C7Fd6574ddc39a4)
+- tx: [0x3b7611467b9f04011c58b74418c43cf33b331c2577e52cd1e62d6829ce81d8e0](https://mumbai.polygonscan.com/tx/0x3b7611467b9f04011c58b74418c43cf33b331c2577e52cd1e62d6829ce81d8e0)
+##### Goerli
+- adr: [0x68e6F821f6558656Bb688Eb82955e0FD91746151](https://goerli.etherscan.io/address/0x68e6F821f6558656Bb688Eb82955e0FD91746151)
+- tx: [0xcb5e5da87f470913f6b208b3b7fc5abae2e641776ca319fa7b96d460d40405ae](https://goerli.etherscan.io/tx/0xcb5e5da87f470913f6b208b3b7fc5abae2e641776ca319fa7b96d460d40405ae)
 #### 02-09-2022
 ##### [v0.0.1](https://github.com/StableBattle/StableBattleDiamond/tree/0.0.1)
 - Redeploy of the last version into both goerli & mumbai
 ##### Mumbai
 - adr: [0x028677AC7C581Ba37a76F37B6a388B8AA4AC7058](https://mumbai.polygonscan.com/address/0x028677AC7C581Ba37a76F37B6a388B8AA4AC7058)
 - tx: [0x33be5ac3a7b092fc16c3b0b1ce8a69754fdbfb3b03743e930130a32f4434a293](https://mumbai.polygonscan.com/tx/0x33be5ac3a7b092fc16c3b0b1ce8a69754fdbfb3b03743e930130a32f4434a293)
-#### Goerli
+##### Goerli
 - adr: [0x30d0C2154BEcE1FA810119A389dAE9B7564bEB4B](https://goerli.etherscan.io/address/0x30d0C2154BEcE1FA810119A389dAE9B7564bEB4B)
 - tx: [0x884813a3a5642e632f22f99463a331cbda795891f81af9585d026c3b54690449](https://goerli.etherscan.io/tx/0x884813a3a5642e632f22f99463a331cbda795891f81af9585d026c3b54690449)
 #### 23-08-2022
