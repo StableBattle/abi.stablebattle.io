@@ -1,4 +1,13 @@
 # StableBattle Contract Deployment Journal
+#### 09-09-2022
+##### [v0.0.3](https://github.com/StableBattle/StableBattleDiamond/tree/0.0.3)
+- Reverted interfaces to the pre 0.0.1 version
+##### Mumbai
+- adr: [0xB4BdeeEEFf3DeF2e1132543c62d4316f401b31e4](https://mumbai.polygonscan.com/address/0xB4BdeeEEFf3DeF2e1132543c62d4316f401b31e4)
+- tx: [0x5b081487e4972276777c1a35fcace13c5aa730fb03955ef4c36886d709b41a6c](https://mumbai.polygonscan.com/tx/0x5b081487e4972276777c1a35fcace13c5aa730fb03955ef4c36886d709b41a6c)
+##### Goerli
+- adr: [0x6D5358e9a8cB025fF4ecf2A128711e30E441bc67](https://goerli.etherscan.io/address/0x6D5358e9a8cB025fF4ecf2A128711e30E441bc67)
+- tx: [0x86dc9adf6f15504c89cabd6c979962be392bc7431ad268146ea10f32e398d3bc](https://goerli.etherscan.io/tx/0x86dc9adf6f15504c89cabd6c979962be392bc7431ad268146ea10f32e398d3bc)
 #### 08-09-2022
 ##### [v0.0.2](https://github.com/StableBattle/StableBattleDiamond/tree/0.0.2)
 - Changed DemoFight to prioritze single-coin intercation
