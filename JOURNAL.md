@@ -1,6 +1,15 @@
 # StableBattle Contract Deployment Journal
+#### 28-09-2022
+##### [v0.0.4](https://github.com/StableBattle/stable-battle-contracts/tree/0.0.4)
+- Added access control to battleWonBy
+##### Mumbai
+- adr: [0x588EC704Dfc2A84713259e7530E775f598aa7ae8](https://mumbai.polygonscan.com/address/0x588EC704Dfc2A84713259e7530E775f598aa7ae8)
+- tx: [0x2e4b97d01078517973d038576c056443f5bc3bd0b745b72029914078eac9977e](https://mumbai.polygonscan.com/tx/0x2e4b97d01078517973d038576c056443f5bc3bd0b745b72029914078eac9977e)
+##### Goerli
+- adr: [0x14E2f91a7cc7afa1904Df83F4727D3029d37709B](https://goerli.etherscan.io/address/0x14E2f91a7cc7afa1904Df83F4727D3029d37709B)
+- tx: [0x9bcb8b65e8e0be9aee877be1adfb76155d365e84ff857b22930edc9df1e1f9bb](https://goerli.etherscan.io/tx/0x9bcb8b65e8e0be9aee877be1adfb76155d365e84ff857b22930edc9df1e1f9bb)
 #### 09-09-2022
-##### [v0.0.3](https://github.com/StableBattle/StableBattleDiamond/tree/0.0.3)
+##### [v0.0.3](https://github.com/StableBattle/stable-battle-contracts/tree/0.0.3)
 - Reverted interfaces to the pre 0.0.1 version
 ##### Mumbai
 - adr: [0xB4BdeeEEFf3DeF2e1132543c62d4316f401b31e4](https://mumbai.polygonscan.com/address/0xB4BdeeEEFf3DeF2e1132543c62d4316f401b31e4)
@@ -9,7 +18,7 @@
 - adr: [0x6D5358e9a8cB025fF4ecf2A128711e30E441bc67](https://goerli.etherscan.io/address/0x6D5358e9a8cB025fF4ecf2A128711e30E441bc67)
 - tx: [0x86dc9adf6f15504c89cabd6c979962be392bc7431ad268146ea10f32e398d3bc](https://goerli.etherscan.io/tx/0x86dc9adf6f15504c89cabd6c979962be392bc7431ad268146ea10f32e398d3bc)
 #### 08-09-2022
-##### [v0.0.2](https://github.com/StableBattle/StableBattleDiamond/tree/0.0.2)
+##### [v0.0.2](https://github.com/StableBattle/stable-battle-contracts/tree/0.0.2)
 - Changed DemoFight to prioritze single-coin intercation
 ##### Mumbai
 - adr: [0xB7E653d96CC7Ce2F27e70B81E266dd0B21d3ac26](https://mumbai.polygonscan.com/address/0xB7E653d96CC7Ce2F27e70B81E266dd0B21d3ac26)
@@ -18,7 +27,7 @@
 - adr: [0xfAc3069d0254e70D20F4287CB3C79bcCa22fee4B](https://goerli.etherscan.io/address/0xfAc3069d0254e70D20F4287CB3C79bcCa22fee4B)
 - tx: [0xfc67002e2e2fffc82f1beac2c71397cc04970fa1e69b5080abfe42339e7bdbe1](https://goerli.etherscan.io/tx/0xfc67002e2e2fffc82f1beac2c71397cc04970fa1e69b5080abfe42339e7bdbe1)
 #### 02-09-2022
-##### [v0.0.1](https://github.com/StableBattle/StableBattleDiamond/tree/0.0.1)
+##### [v0.0.1](https://github.com/StableBattle/stable-battle-contracts/tree/0.0.1)
 - Redeploy of the last version into both goerli & mumbai
 ##### Mumbai
 - adr: [0x028677AC7C581Ba37a76F37B6a388B8AA4AC7058](https://mumbai.polygonscan.com/address/0x028677AC7C581Ba37a76F37B6a388B8AA4AC7058)
