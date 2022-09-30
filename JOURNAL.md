@@ -1,4 +1,9 @@
 # StableBattle Contract Deployment Journal
+#### 30-09-2022
+- Changed addresses in access control to 0xdff7D2C6E777aE6F15782571a17e5DEE8aa21326
+##### Goerli
+- adr: [0x10Dcfce55E592D8aE8EAFf14dc4BA25b04821078](https://goerli.etherscan.io/address/0x10Dcfce55E592D8aE8EAFf14dc4BA25b04821078)
+- tx: [0xe2e9096de11a5f3c1c612d476efc2a26273f23a225071251a30da166a6cbae46](https://goerli.etherscan.io/tx/0xe2e9096de11a5f3c1c612d476efc2a26273f23a225071251a30da166a6cbae46)
 #### 28-09-2022
 ##### [v0.0.4](https://github.com/StableBattle/stable-battle-contracts/tree/0.0.4)
 - Added access control to battleWonBy
