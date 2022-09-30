@@ -828,16 +828,6 @@
         "type": "address"
       },
       {
-        "internalType": "enum Pool",
-        "name": "pool",
-        "type": "uint8"
-      },
-      {
-        "internalType": "enum Coin",
-        "name": "coin",
-        "type": "uint8"
-      },
-      {
         "internalType": "uint256",
         "name": "reward",
         "type": "uint256"
@@ -908,16 +898,6 @@
         "internalType": "address",
         "name": "user",
         "type": "address"
-      },
-      {
-        "internalType": "enum Pool",
-        "name": "pool",
-        "type": "uint8"
-      },
-      {
-        "internalType": "enum Coin",
-        "name": "coin",
-        "type": "uint8"
       }
     ],
     "name": "claimReward",
@@ -1257,18 +1237,7 @@
     "type": "function"
   },
   {
-    "inputs": [
-      {
-        "internalType": "enum Pool",
-        "name": "pool",
-        "type": "uint8"
-      },
-      {
-        "internalType": "enum Coin",
-        "name": "coin",
-        "type": "uint8"
-      }
-    ],
+    "inputs": [],
     "name": "getCurrentYield",
     "outputs": [
       {
@@ -1741,18 +1710,7 @@
     "type": "function"
   },
   {
-    "inputs": [
-      {
-        "internalType": "enum Pool",
-        "name": "pool",
-        "type": "uint8"
-      },
-      {
-        "internalType": "enum Coin",
-        "name": "coin",
-        "type": "uint8"
-      }
-    ],
+    "inputs": [],
     "name": "getLockedYield",
     "outputs": [
       {
@@ -1826,18 +1784,7 @@
     "type": "function"
   },
   {
-    "inputs": [
-      {
-        "internalType": "enum Pool",
-        "name": "pool",
-        "type": "uint8"
-      },
-      {
-        "internalType": "enum Coin",
-        "name": "coin",
-        "type": "uint8"
-      }
-    ],
+    "inputs": [],
     "name": "getStakedByKnights",
     "outputs": [
       {
@@ -1863,18 +1810,7 @@
     "type": "function"
   },
   {
-    "inputs": [
-      {
-        "internalType": "enum Pool",
-        "name": "pool",
-        "type": "uint8"
-      },
-      {
-        "internalType": "enum Coin",
-        "name": "coin",
-        "type": "uint8"
-      }
-    ],
+    "inputs": [],
     "name": "getTotalYield",
     "outputs": [
       {
@@ -1892,16 +1828,6 @@
         "internalType": "address",
         "name": "user",
         "type": "address"
-      },
-      {
-        "internalType": "enum Pool",
-        "name": "pool",
-        "type": "uint8"
-      },
-      {
-        "internalType": "enum Coin",
-        "name": "coin",
-        "type": "uint8"
       }
     ],
     "name": "getUserReward",
@@ -1916,18 +1842,7 @@
     "type": "function"
   },
   {
-    "inputs": [
-      {
-        "internalType": "enum Pool",
-        "name": "pool",
-        "type": "uint8"
-      },
-      {
-        "internalType": "enum Coin",
-        "name": "coin",
-        "type": "uint8"
-      }
-    ],
+    "inputs": [],
     "name": "getYieldInfo",
     "outputs": [
       {
