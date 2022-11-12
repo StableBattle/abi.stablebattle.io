@@ -1,11 +1,17 @@
 # StableBattle Contract Deployment Journal
+#### 11-11-2022
+##### [v0.0.8](https://github.com/StableBattle/stable-battle-contracts/tree/0.0.8)
+- Readded access control for battleWonBy
+##### Goerli
+- adr: [0x9fc17A24CFBD4354c99A93eb6404BD411e8906dF](https://goerli.etherscan.io/address/0x9fc17A24CFBD4354c99A93eb6404BD411e8906dF)
+- tx: [0x3241f2295c039c0a4f9b552def32e1a518904a1f0ab5a0a296aa0248f6308ef2](https://goerli.etherscan.io/tx/0x3241f2295c039c0a4f9b552def32e1a518904a1f0ab5a0a296aa0248f6308ef2)
 #### 09-11-2022
 ##### [v0.0.7](https://github.com/StableBattle/stable-battle-contracts/tree/0.0.7)
 - Updated to the latest refactored contract version
 - Minor interface changes
 ##### Goerli
-- adr: [0xA02abBa0aE1323F4eB43a3791F5D20317Bf59981](https://goerli.etherscan.io/address/0xA02abBa0aE1323F4eB43a3791F5D20317Bf59981)
-- tx: [0x36c99dad0683a0dc068850f6e804e97701263721b041cba60dd6334fdec7ebf6](https://goerli.etherscan.io/tx/0x36c99dad0683a0dc068850f6e804e97701263721b041cba60dd6334fdec7ebf6)
+- adr: [0xf403b2c50F296E7578932F3942f62c8a7b36Ef13](https://goerli.etherscan.io/address/0xf403b2c50F296E7578932F3942f62c8a7b36Ef13)
+- tx: [0xc2d198a92ee1413626e7cbd14f1e53ab5dfbf7c4d3d38c353064487d81979537](https://goerli.etherscan.io/tx/0xc2d198a92ee1413626e7cbd14f1e53ab5dfbf7c4d3d38c353064487d81979537)
 #### 04-10-2022
 ##### [v0.0.6](https://github.com/StableBattle/stable-battle-contracts/tree/0.0.6)
 - Added metadata
