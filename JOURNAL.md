@@ -1,4 +1,11 @@
 # StableBattle Contract Deployment Journal
+#### 18-01-2023
+##### [v0.0.9](https://github.com/StableBattle/stable-battle-contracts/tree/0.0.9)
+- Added clan system
+- Interface description [here](https://stablebattle.kaiten.ru/documents/d/01734f27-dc0f-4213-8570-fb58bcf5d2d3)
+##### Mumbai
+- adr: [0x33B0bc99bD90a8e5A902CC1084988e7865ab29e0](https://mumbai.polygonscan.com/address/0x33B0bc99bD90a8e5A902CC1084988e7865ab29e0)
+- tx: [0x99c8f5c531c66be57c7146e0e82b486806d07118caca163bcc0faa3f6dbca16e](https://mumbai.polygonscan.com/tx/0x99c8f5c531c66be57c7146e0e82b486806d07118caca163bcc0faa3f6dbca16e)
 #### 11-11-2022
 ##### [v0.0.8](https://github.com/StableBattle/stable-battle-contracts/tree/0.0.8)
 - Readded access control for battleWonBy
