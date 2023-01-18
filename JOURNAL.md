@@ -3,6 +3,9 @@
 ##### [v0.0.9](https://github.com/StableBattle/stable-battle-contracts/tree/0.0.9)
 - Added clan system
 - Interface description [here](https://stablebattle.kaiten.ru/documents/d/01734f27-dc0f-4213-8570-fb58bcf5d2d3)
+##### Goerli
+- adr: [0xf12d58907aaF31672d3673BFf254AA34B153447b](https://goerli.etherscan.io/address/0xf12d58907aaF31672d3673BFf254AA34B153447b)
+- tx: [0x837b164b80d2749f922787fb769b1fea264e6c006fcad6f138cacf5f3fdabff6](https://goerli.etherscan.io/tx/0x837b164b80d2749f922787fb769b1fea264e6c006fcad6f138cacf5f3fdabff6)
 ##### Mumbai
 - adr: [0x33B0bc99bD90a8e5A902CC1084988e7865ab29e0](https://mumbai.polygonscan.com/address/0x33B0bc99bD90a8e5A902CC1084988e7865ab29e0)
 - tx: [0x99c8f5c531c66be57c7146e0e82b486806d07118caca163bcc0faa3f6dbca16e](https://mumbai.polygonscan.com/tx/0x99c8f5c531c66be57c7146e0e82b486806d07118caca163bcc0faa3f6dbca16e)
