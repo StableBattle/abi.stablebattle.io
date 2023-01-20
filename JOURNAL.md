@@ -1,4 +1,10 @@
 # StableBattle Contract Deployment Journal
+#### 20-01-2023
+##### [v0.0.10](https://github.com/StableBattle/stable-battle-contracts/tree/0.0.10)
+- Changed interfaces
+##### Goerli
+- adr: [0x30B4970b5D6f05FECE1c214b29803e3a35160c17](https://goerli.etherscan.io/address/0x30B4970b5D6f05FECE1c214b29803e3a35160c17)
+- tx: [0x2e22227addaeb6d02a8f3fa6d32233750e298d8995640a318c224a77888d3b32](https://goerli.etherscan.io/tx/0x2e22227addaeb6d02a8f3fa6d32233750e298d8995640a318c224a77888d3b32)
 #### 18-01-2023
 ##### [v0.0.9](https://github.com/StableBattle/stable-battle-contracts/tree/0.0.9)
 - Added clan system
