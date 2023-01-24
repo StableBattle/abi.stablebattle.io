@@ -1,4 +1,10 @@
 # StableBattle Contract Deployment Journal
+#### 24-01-2023
+##### [v0.0.11](https://github.com/StableBattle/stable-battle-contracts/tree/0.0.11)
+- Updated interfaces
+##### Goerli
+- adr: [0x6ff56eF741b947bEF989602503301910A3D7b87b](https://goerli.etherscan.io/address/0x6ff56eF741b947bEF989602503301910A3D7b87b)
+- tx: [0x3b2797a76ccd2f6ae926a74f82fd5b4c2e16fc67100167bcfa598a54b4c77b52](https://goerli.etherscan.io/tx/0x3b2797a76ccd2f6ae926a74f82fd5b4c2e16fc67100167bcfa598a54b4c77b52)
 #### 20-01-2023
 ##### [v0.0.10](https://github.com/StableBattle/stable-battle-contracts/tree/0.0.10)
 - Changed interfaces
