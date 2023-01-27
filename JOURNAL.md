@@ -1,5 +1,5 @@
 # StableBattle Contract Deployment Journal
-#### 25-01-2023
+#### 27-01-2023
 ##### [v0.0.13](https://github.com/StableBattle/stable-battle-contracts/tree/0.0.13)
 - Added Siege facet
 - Small changes to Clan interfaces
