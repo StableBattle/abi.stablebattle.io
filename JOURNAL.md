@@ -1,5 +1,12 @@
 # StableBattle Contract Deployment Journal
 #### 25-01-2023
+##### [v0.0.13](https://github.com/StableBattle/stable-battle-contracts/tree/0.0.13)
+- Added Siege facet
+- Small changes to Clan interfaces
+##### Goerli
+- adr: [0x34a9d07A7e168Cdd02098c1Ce44F9E27AaD6B3BD](https://goerli.etherscan.io/address/0x34a9d07A7e168Cdd02098c1Ce44F9E27AaD6B3BD)
+- tx: [0xff5e560a883c35347f9e0860f0ebbefad234c60c2aecb496243665bdeaf32ace](https://goerli.etherscan.io/tx/0xff5e560a883c35347f9e0860f0ebbefad234c60c2aecb496243665bdeaf32ace)
+#### 25-01-2023
 ##### [v0.0.12](https://github.com/StableBattle/stable-battle-contracts/tree/0.0.12)
 - Minor fixes
 ##### Goerli
