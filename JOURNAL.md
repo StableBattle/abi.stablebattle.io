@@ -4,8 +4,8 @@
 - Added Siege facet
 - Small changes to Clan interfaces
 ##### Goerli
-- adr: [0x34a9d07A7e168Cdd02098c1Ce44F9E27AaD6B3BD](https://goerli.etherscan.io/address/0x34a9d07A7e168Cdd02098c1Ce44F9E27AaD6B3BD)
-- tx: [0xff5e560a883c35347f9e0860f0ebbefad234c60c2aecb496243665bdeaf32ace](https://goerli.etherscan.io/tx/0xff5e560a883c35347f9e0860f0ebbefad234c60c2aecb496243665bdeaf32ace)
+- adr: [0xe0c44245fA9f940ca3875A2A93235A942baC9fF4](https://goerli.etherscan.io/address/0xe0c44245fA9f940ca3875A2A93235A942baC9fF4)
+- tx: [0x72a627ab255643c59913e9b7849543081aae59fbf450be27cbf29fb77a604948](https://goerli.etherscan.io/tx/0x72a627ab255643c59913e9b7849543081aae59fbf450be27cbf29fb77a604948)
 #### 25-01-2023
 ##### [v0.0.12](https://github.com/StableBattle/stable-battle-contracts/tree/0.0.12)
 - Minor fixes
