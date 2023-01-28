@@ -1,31 +1,26 @@
 # StableBattle Contract Deployment Journal
-#### 27-01-2023
-##### [v0.0.13](https://github.com/StableBattle/stable-battle-contracts/tree/0.0.13)
+#### 27-01-2023 - [v0.0.13](https://github.com/StableBattle/stable-battle-contracts/tree/0.0.13)
 - Added Siege facet
 - Small changes to Clan interfaces
 ##### Goerli
 - adr: [0xe0c44245fA9f940ca3875A2A93235A942baC9fF4](https://goerli.etherscan.io/address/0xe0c44245fA9f940ca3875A2A93235A942baC9fF4)
 - tx: [0x72a627ab255643c59913e9b7849543081aae59fbf450be27cbf29fb77a604948](https://goerli.etherscan.io/tx/0x72a627ab255643c59913e9b7849543081aae59fbf450be27cbf29fb77a604948)
-#### 25-01-2023
-##### [v0.0.12](https://github.com/StableBattle/stable-battle-contracts/tree/0.0.12)
+#### 25-01-2023 - [v0.0.12](https://github.com/StableBattle/stable-battle-contracts/tree/0.0.12)
 - Minor fixes
 ##### Goerli
 - adr: [0xc948BB2138ee561f47D8D21dfEa26D0b2BD5838E](https://goerli.etherscan.io/address/0xc948BB2138ee561f47D8D21dfEa26D0b2BD5838E)
 - tx: [0xd00bec1cf3ab0413d06d8c029bf35f0ac6fe885b2cc72f86ebc54e0822d16349](https://goerli.etherscan.io/tx/0xd00bec1cf3ab0413d06d8c029bf35f0ac6fe885b2cc72f86ebc54e0822d16349)
-#### 24-01-2023
-##### [v0.0.11](https://github.com/StableBattle/stable-battle-contracts/tree/0.0.11)
+#### 24-01-2023 - [v0.0.11](https://github.com/StableBattle/stable-battle-contracts/tree/0.0.11)
 - Updated interfaces
 ##### Goerli
 - adr: [0x6ff56eF741b947bEF989602503301910A3D7b87b](https://goerli.etherscan.io/address/0x6ff56eF741b947bEF989602503301910A3D7b87b)
 - tx: [0x3b2797a76ccd2f6ae926a74f82fd5b4c2e16fc67100167bcfa598a54b4c77b52](https://goerli.etherscan.io/tx/0x3b2797a76ccd2f6ae926a74f82fd5b4c2e16fc67100167bcfa598a54b4c77b52)
-#### 20-01-2023
-##### [v0.0.10](https://github.com/StableBattle/stable-battle-contracts/tree/0.0.10)
+#### 20-01-2023 - [v0.0.10](https://github.com/StableBattle/stable-battle-contracts/tree/0.0.10)
 - Changed interfaces
 ##### Goerli
 - adr: [0x30B4970b5D6f05FECE1c214b29803e3a35160c17](https://goerli.etherscan.io/address/0x30B4970b5D6f05FECE1c214b29803e3a35160c17)
 - tx: [0x2e22227addaeb6d02a8f3fa6d32233750e298d8995640a318c224a77888d3b32](https://goerli.etherscan.io/tx/0x2e22227addaeb6d02a8f3fa6d32233750e298d8995640a318c224a77888d3b32)
-#### 18-01-2023
-##### [v0.0.9](https://github.com/StableBattle/stable-battle-contracts/tree/0.0.9)
+#### 18-01-2023 - [v0.0.9](https://github.com/StableBattle/stable-battle-contracts/tree/0.0.9)
 - Added clan system
 - Interface description [here](https://stablebattle.kaiten.ru/documents/d/01734f27-dc0f-4213-8570-fb58bcf5d2d3)
 ##### Goerli
@@ -34,33 +29,28 @@
 ##### Mumbai
 - adr: [0x33B0bc99bD90a8e5A902CC1084988e7865ab29e0](https://mumbai.polygonscan.com/address/0x33B0bc99bD90a8e5A902CC1084988e7865ab29e0)
 - tx: [0x99c8f5c531c66be57c7146e0e82b486806d07118caca163bcc0faa3f6dbca16e](https://mumbai.polygonscan.com/tx/0x99c8f5c531c66be57c7146e0e82b486806d07118caca163bcc0faa3f6dbca16e)
-#### 11-11-2022
-##### [v0.0.8](https://github.com/StableBattle/stable-battle-contracts/tree/0.0.8)
+#### 11-11-2022 - [v0.0.8](https://github.com/StableBattle/stable-battle-contracts/tree/0.0.8)
 - Readded access control for battleWonBy
 ##### Goerli
 - adr: [0x9fc17A24CFBD4354c99A93eb6404BD411e8906dF](https://goerli.etherscan.io/address/0x9fc17A24CFBD4354c99A93eb6404BD411e8906dF)
 - tx: [0x3241f2295c039c0a4f9b552def32e1a518904a1f0ab5a0a296aa0248f6308ef2](https://goerli.etherscan.io/tx/0x3241f2295c039c0a4f9b552def32e1a518904a1f0ab5a0a296aa0248f6308ef2)
-#### 09-11-2022
-##### [v0.0.7](https://github.com/StableBattle/stable-battle-contracts/tree/0.0.7)
+#### 09-11-2022 - [v0.0.7](https://github.com/StableBattle/stable-battle-contracts/tree/0.0.7)
 - Updated to the latest refactored contract version
 - Minor interface changes
 ##### Goerli
 - adr: [0xf403b2c50F296E7578932F3942f62c8a7b36Ef13](https://goerli.etherscan.io/address/0xf403b2c50F296E7578932F3942f62c8a7b36Ef13)
 - tx: [0xc2d198a92ee1413626e7cbd14f1e53ab5dfbf7c4d3d38c353064487d81979537](https://goerli.etherscan.io/tx/0xc2d198a92ee1413626e7cbd14f1e53ab5dfbf7c4d3d38c353064487d81979537)
-#### 04-10-2022
-##### [v0.0.6](https://github.com/StableBattle/stable-battle-contracts/tree/0.0.6)
+#### 04-10-2022 - [v0.0.6](https://github.com/StableBattle/stable-battle-contracts/tree/0.0.6)
 - Added metadata
 ##### Goerli
 - adr: [0xC0662fAee7C84A03B1e58d60256cafeeb08Ab85d](https://goerli.etherscan.io/address/0xC0662fAee7C84A03B1e58d60256cafeeb08Ab85d)
 - tx: [0xc23d83a88d252e5fff0c4e7d3bcc4b47646dc276cd074629ea8144136efc76ec](https://goerli.etherscan.io/tx/0xc23d83a88d252e5fff0c4e7d3bcc4b47646dc276cd074629ea8144136efc76ec)
-#### 30-09-2022
-##### [v0.0.5](https://github.com/StableBattle/stable-battle-contracts/tree/0.0.5)
+#### 30-09-2022 - [v0.0.5](https://github.com/StableBattle/stable-battle-contracts/tree/0.0.5)
 - Changed addresses in access control to 0xdff7D2C6E777aE6F15782571a17e5DEE8aa21326
 ##### Goerli
 - adr: [0x10Dcfce55E592D8aE8EAFf14dc4BA25b04821078](https://goerli.etherscan.io/address/0x10Dcfce55E592D8aE8EAFf14dc4BA25b04821078)
 - tx: [0xe2e9096de11a5f3c1c612d476efc2a26273f23a225071251a30da166a6cbae46](https://goerli.etherscan.io/tx/0xe2e9096de11a5f3c1c612d476efc2a26273f23a225071251a30da166a6cbae46)
-#### 28-09-2022
-##### [v0.0.4](https://github.com/StableBattle/stable-battle-contracts/tree/0.0.4)
+#### 28-09-2022 - [v0.0.4](https://github.com/StableBattle/stable-battle-contracts/tree/0.0.4)
 - Added access control to battleWonBy
 ##### Mumbai
 - adr: [0x588EC704Dfc2A84713259e7530E775f598aa7ae8](https://mumbai.polygonscan.com/address/0x588EC704Dfc2A84713259e7530E775f598aa7ae8)
@@ -68,8 +58,7 @@
 ##### Goerli
 - adr: [0x14E2f91a7cc7afa1904Df83F4727D3029d37709B](https://goerli.etherscan.io/address/0x14E2f91a7cc7afa1904Df83F4727D3029d37709B)
 - tx: [0x9bcb8b65e8e0be9aee877be1adfb76155d365e84ff857b22930edc9df1e1f9bb](https://goerli.etherscan.io/tx/0x9bcb8b65e8e0be9aee877be1adfb76155d365e84ff857b22930edc9df1e1f9bb)
-#### 09-09-2022
-##### [v0.0.3](https://github.com/StableBattle/stable-battle-contracts/tree/0.0.3)
+#### 09-09-2022 - [v0.0.3](https://github.com/StableBattle/stable-battle-contracts/tree/0.0.3)
 - Reverted interfaces to the pre 0.0.1 version
 ##### Mumbai
 - adr: [0xB4BdeeEEFf3DeF2e1132543c62d4316f401b31e4](https://mumbai.polygonscan.com/address/0xB4BdeeEEFf3DeF2e1132543c62d4316f401b31e4)
@@ -77,8 +66,7 @@
 ##### Goerli
 - adr: [0x6D5358e9a8cB025fF4ecf2A128711e30E441bc67](https://goerli.etherscan.io/address/0x6D5358e9a8cB025fF4ecf2A128711e30E441bc67)
 - tx: [0x86dc9adf6f15504c89cabd6c979962be392bc7431ad268146ea10f32e398d3bc](https://goerli.etherscan.io/tx/0x86dc9adf6f15504c89cabd6c979962be392bc7431ad268146ea10f32e398d3bc)
-#### 08-09-2022
-##### [v0.0.2](https://github.com/StableBattle/stable-battle-contracts/tree/0.0.2)
+#### 08-09-2022 - [v0.0.2](https://github.com/StableBattle/stable-battle-contracts/tree/0.0.2)
 - Changed DemoFight to prioritze single-coin intercation
 ##### Mumbai
 - adr: [0xB7E653d96CC7Ce2F27e70B81E266dd0B21d3ac26](https://mumbai.polygonscan.com/address/0xB7E653d96CC7Ce2F27e70B81E266dd0B21d3ac26)
@@ -86,8 +74,7 @@
 ##### Goerli
 - adr: [0xfAc3069d0254e70D20F4287CB3C79bcCa22fee4B](https://goerli.etherscan.io/address/0xfAc3069d0254e70D20F4287CB3C79bcCa22fee4B)
 - tx: [0xfc67002e2e2fffc82f1beac2c71397cc04970fa1e69b5080abfe42339e7bdbe1](https://goerli.etherscan.io/tx/0xfc67002e2e2fffc82f1beac2c71397cc04970fa1e69b5080abfe42339e7bdbe1)
-#### 02-09-2022
-##### [v0.0.1](https://github.com/StableBattle/stable-battle-contracts/tree/0.0.1)
+#### 02-09-2022 - [v0.0.1](https://github.com/StableBattle/stable-battle-contracts/tree/0.0.1)
 - Redeploy of the last version into both goerli & mumbai
 ##### Mumbai
 - adr: [0x028677AC7C581Ba37a76F37B6a388B8AA4AC7058](https://mumbai.polygonscan.com/address/0x028677AC7C581Ba37a76F37B6a388B8AA4AC7058)
