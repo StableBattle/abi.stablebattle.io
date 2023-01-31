@@ -1,4 +1,10 @@
 # StableBattle Contract Deployment Journal
+#### 31-01-2023 - [v0.0.14](https://github.com/StableBattle/stable-battle-contracts/tree/0.0.14)
+- Fixed siege reward
+- Added info functions for backend
+##### Goerli
+- adr: [0x855EED24aF99081d33A991Fcedf8C4572838743b](https://goerli.etherscan.io/address/0x855EED24aF99081d33A991Fcedf8C4572838743b)
+- tx: [0x21fd55dab8744a2c1029c75ea59d31703df514cfeefc7e1d496e2309df235a43](https://goerli.etherscan.io/tx/0x21fd55dab8744a2c1029c75ea59d31703df514cfeefc7e1d496e2309df235a43)
 #### 27-01-2023 - [v0.0.13](https://github.com/StableBattle/stable-battle-contracts/tree/0.0.13)
 - Added Siege facet
 - Small changes to Clan interfaces
