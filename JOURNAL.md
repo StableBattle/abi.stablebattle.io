@@ -1,11 +1,14 @@
 # StableBattle Contract Deployment Journal
-0x637d468c45599f6986CbE0EB6978b4769be3094d
 #### 03-02-2023 - [v0.0.15](https://github.com/StableBattle/stable-battle-contracts/tree/0.0.15)
 - Updated interfaces
 - Added clan dissolution
 ##### Goerli
+###### StableBattle
 - adr: [0x637d468c45599f6986CbE0EB6978b4769be3094d](https://goerli.etherscan.io/address/0x637d468c45599f6986CbE0EB6978b4769be3094d)
 - tx: [0x9bbd3bad0a03240c4d14f2cd0335c8dd53d25f0bee1a0b21db053b1fe23662d5](https://goerli.etherscan.io/tx/0x9bbd3bad0a03240c4d14f2cd0335c8dd53d25f0bee1a0b21db053b1fe23662d5)
+###### BEER
+- adr: [0x177D2F5570BB8E0D3750200b9EA8C5375867312e](https://goerli.etherscan.io/address/0x177D2F5570BB8E0D3750200b9EA8C5375867312e)
+- tx: [0x70b5c64729f099ea0a04f08ce496425ad4d229817555cd022dfee734b4b74f48](https://goerli.etherscan.io/tx/0x70b5c64729f099ea0a04f08ce496425ad4d229817555cd022dfee734b4b74f48)
 #### 31-01-2023 - [v0.0.14](https://github.com/StableBattle/stable-battle-contracts/tree/0.0.14)
 - Fixed siege reward
 - Added info functions for backend
