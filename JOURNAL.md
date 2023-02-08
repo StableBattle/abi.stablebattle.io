@@ -1,4 +1,13 @@
 # StableBattle Contract Deployment Journal
+#### 08-02-2023 - [v0.0.16](https://github.com/StableBattle/stable-battle-contracts/tree/0.0.16)
+- Updated stake interfaces
+##### Goerli
+###### StableBattle
+- adr: [0x3184DaFDbd73e1a34a6c5B65246E82369869a477](https://goerli.etherscan.io/address/0x3184DaFDbd73e1a34a6c5B65246E82369869a477)
+- tx: [0xbc6ef82b8a78b7dd9b24beea1d9fdef9c2a2c103564af9fa548851023f7020e7](https://goerli.etherscan.io/tx/0xbc6ef82b8a78b7dd9b24beea1d9fdef9c2a2c103564af9fa548851023f7020e7)
+###### BEER
+- adr: [0xA8A8fCBd37008be95a1CB10Dd23210C13A3f6c62](https://goerli.etherscan.io/address/0xA8A8fCBd37008be95a1CB10Dd23210C13A3f6c62)
+- tx: [0xf401c6059b295fb5a05f8d1533393017f0ac01243c8ff2dc089c8b51778fe190](https://goerli.etherscan.io/tx/0xf401c6059b295fb5a05f8d1533393017f0ac01243c8ff2dc089c8b51778fe190)
 #### 03-02-2023 - [v0.0.15](https://github.com/StableBattle/stable-battle-contracts/tree/0.0.15)
 - Updated interfaces
 - Added clan dissolution
