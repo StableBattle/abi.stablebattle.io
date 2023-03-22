@@ -1,4 +1,14 @@
 # StableBattle Contract Deployment Journal
+#### 22-03-2023 - [v0.0.18](https://github.com/StableBattle/stable-battle-contracts/tree/0.0.18)
+- Updated config interfaces
+- Returned 18 decimals in BEER
+##### Goerli
+###### StableBattle
+- adr: [0xc1B9aC6A9E823d15F824068eeBf089D2b4B32291](https://goerli.etherscan.io/address/0xc1B9aC6A9E823d15F824068eeBf089D2b4B32291)
+- tx: [0x633d707f4d9982e116fec664ea58cc7cfb75dac618f5139d06ae0629e11c7502](https://goerli.etherscan.io/tx/0x633d707f4d9982e116fec664ea58cc7cfb75dac618f5139d06ae0629e11c7502)
+###### BEER
+- adr: [0x1dDf8E38FF6D5e4e7ea255aBD9755Ec30B64e858](https://goerli.etherscan.io/address/0x1dDf8E38FF6D5e4e7ea255aBD9755Ec30B64e858)
+- tx: [0x0e3fc26ddf62bbf1875103d48dbbb5dbe12a6a52406e2fbb44796ab3cc98f2a3](https://goerli.etherscan.io/tx/0x0e3fc26ddf62bbf1875103d48dbbb5dbe12a6a52406e2fbb44796ab3cc98f2a3)
 #### 10-02-2023 - [v0.0.17](https://github.com/StableBattle/stable-battle-contracts/tree/0.0.17)
 - Updated stake withdraw mechanism
 - Updated config interfaces
