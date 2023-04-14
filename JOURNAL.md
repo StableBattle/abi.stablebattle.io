@@ -1,5 +1,5 @@
 # StableBattle Contract Deployment Journal
-#### 14-04-2023 - [v0.0.19](https://github.com/StableBattle/stable-battle-contracts/tree/0.0.6.1)
+#### 14-04-2023 - [v0.0.19](https://github.com/StableBattle/stable-battle-contracts/tree/0.0.19)
 - Added some debug features
 ##### Goerli
 ###### StableBattle
