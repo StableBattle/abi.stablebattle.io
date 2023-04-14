@@ -1,4 +1,13 @@
 # StableBattle Contract Deployment Journal
+#### 14-04-2023 - [v0.0.6.1](https://github.com/StableBattle/stable-battle-contracts/tree/0.0.6.1)
+- Same as [0.0.6](https://github.com/StableBattle/stable-battle-contracts/tree/0.0.6) but with updated uri
+##### Goerli
+###### StableBattle
+- adr: [0x410DF018E0e3FAA78595430D3fb97C58336d7c77](https://goerli.etherscan.io/address/0x410DF018E0e3FAA78595430D3fb97C58336d7c77)
+- tx: [0x4e0f8213023721677927f70367672f3af85ba166025b03556aaee60c7e9bbfbe](https://goerli.etherscan.io/tx/0x4e0f8213023721677927f70367672f3af85ba166025b03556aaee60c7e9bbfbe)
+###### BEER
+- adr: [0x1835929785128d5c1e6807485B01A3CF174077B6](https://goerli.etherscan.io/address/0x1835929785128d5c1e6807485B01A3CF174077B6)
+- tx: [0xc1be6419e1e64d3a7cfe4b737ce7b11bf46df6c1b7698f0b883df732f07e9dc8](https://goerli.etherscan.io/tx/0xc1be6419e1e64d3a7cfe4b737ce7b11bf46df6c1b7698f0b883df732f07e9dc8)
 #### 22-03-2023 - [v0.0.18](https://github.com/StableBattle/stable-battle-contracts/tree/0.0.18)
 - Updated config interfaces
 - Returned 18 decimals in BEER
