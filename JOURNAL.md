@@ -1,4 +1,13 @@
 # StableBattle Contract Deployment Journal
+#### 14-04-2023 - [v0.0.19](https://github.com/StableBattle/stable-battle-contracts/tree/0.0.6.1)
+- Added some debug features
+##### Goerli
+###### StableBattle
+- adr: [0x6551C3EC64aA6E97097467Bd0fD69B4D49c155Be](https://goerli.etherscan.io/address/0x6551C3EC64aA6E97097467Bd0fD69B4D49c155Be)
+- tx: [0x0e9687ab65e6647ae446f1ac2c5720d346411e106c8bdfa749e5605a5f0304e2](https://goerli.etherscan.io/tx/0x0e9687ab65e6647ae446f1ac2c5720d346411e106c8bdfa749e5605a5f0304e2)
+###### BEER
+- adr: [0x2ac41Df3aE710769DAe63c4fe82c789d47Ff30e5](https://goerli.etherscan.io/address/0x2ac41Df3aE710769DAe63c4fe82c789d47Ff30e5)
+- tx: [0xc9bb5365bc359a77c3aff704a10c6b14721efd60bd357b7aca104f62427813df](https://goerli.etherscan.io/tx/0xc9bb5365bc359a77c3aff704a10c6b14721efd60bd357b7aca104f62427813df)
 #### 14-04-2023 - [v0.0.6.1](https://github.com/StableBattle/stable-battle-contracts/tree/0.0.6.1)
 - Same as [0.0.6](https://github.com/StableBattle/stable-battle-contracts/tree/0.0.6) but with updated uri
 ##### Goerli
