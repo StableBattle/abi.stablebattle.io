@@ -1,5 +1,5 @@
 # StableBattle Contract Deployment Journal
-#### 14-04-2023 - [v0.0.20](https://github.com/StableBattle/stable-battle-contracts/tree/0.0.20)
+#### 21-04-2023 - [v0.0.20](https://github.com/StableBattle/stable-battle-contracts/tree/0.0.20)
 - Changed joinClan behavior to include functionality of withdrawJoinClan
 ##### Goerli
 ###### StableBattle
