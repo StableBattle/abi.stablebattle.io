@@ -1,4 +1,13 @@
 # StableBattle Contract Deployment Journal
+#### 26-04-2023 - [v0.0.21](https://github.com/StableBattle/stable-battle-contracts/tree/0.0.21)
+- Minor changes
+##### Goerli
+###### StableBattle
+- adr: [0xBe7dbF6C08a2910Ff7DA66f06e325f0E9137dBbd](https://goerli.etherscan.io/address/0xBe7dbF6C08a2910Ff7DA66f06e325f0E9137dBbd)
+- tx: [0x379addc547f61fae6bcc6ba1c27730cbb8e275f6d673d728d5e0540a1e55ec1d](https://goerli.etherscan.io/tx/0x379addc547f61fae6bcc6ba1c27730cbb8e275f6d673d728d5e0540a1e55ec1d)
+###### BEER
+- adr: [0x38e706b5ceA25Ed8275644ca28C96F963073f08F](https://goerli.etherscan.io/address/0x38e706b5ceA25Ed8275644ca28C96F963073f08F)
+- tx: [0x6afaf817325119781d6b3dcda390fac79dea82d9a3cb11dc4bf21ff2de5b5a64](https://goerli.etherscan.io/tx/0x6afaf817325119781d6b3dcda390fac79dea82d9a3cb11dc4bf21ff2de5b5a64)
 #### 21-04-2023 - [v0.0.20](https://github.com/StableBattle/stable-battle-contracts/tree/0.0.20)
 - Changed joinClan behavior to include functionality of withdrawJoinClan
 ##### Goerli
