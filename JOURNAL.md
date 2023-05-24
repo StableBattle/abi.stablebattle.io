@@ -1,5 +1,5 @@
 # StableBattle Contract Deployment Journal
-#### 24-05-2023 - Lootboxes [v0.0.1](https://github.com/StableBattle/stable-battle-lootboxes/tree/0.0.21)
+#### 24-05-2023 - Lootboxes [v0.0.1](https://github.com/StableBattle/stable-battle-lootboxes/tree/0.0.1)
 - Deployed first iteration of lootboxes
 ##### Goerli
 ###### Lootboxes
