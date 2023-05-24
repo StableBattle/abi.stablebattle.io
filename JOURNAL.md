@@ -1,4 +1,10 @@
 # StableBattle Contract Deployment Journal
+#### 24-05-2023 - Lootboxes [v0.0.1](https://github.com/StableBattle/stable-battle-lootboxes/tree/0.0.21)
+- Deployed first iteration of lootboxes
+##### Goerli
+###### Lootboxes
+- adr: [0x39Bf75da1008aC840Fc8Fe8639f5BE4F7785B9f1] (https://goerli.etherscan.io/address/0x39Bf75da1008aC840Fc8Fe8639f5BE4F7785B9f1)
+- tx: [0x1d97b199b969f636e8a1ec712cff5754d739ccf32a66442755ddd955b013d1c0] (https://goerli.etherscan.io/tx/0x1d97b199b969f636e8a1ec712cff5754d739ccf32a66442755ddd955b013d1c0)
 #### 26-04-2023 - [v0.0.21](https://github.com/StableBattle/stable-battle-contracts/tree/0.0.21)
 - Minor changes
 ##### Goerli
