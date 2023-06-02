@@ -185,13 +185,13 @@
         ],
         "indexed": false,
         "internalType": "struct DropData[]",
-        "name": "dropData",
+        "name": "dropDataArr",
         "type": "tuple[]"
       },
       {
         "indexed": false,
         "internalType": "uint256[]",
-        "name": "dropId",
+        "name": "dropIds",
         "type": "uint256[]"
       }
     ],
@@ -357,7 +357,7 @@
           }
         ],
         "internalType": "struct DropData[]",
-        "name": "dropData",
+        "name": "dropDataArr",
         "type": "tuple[]"
       },
       {
