@@ -1,4 +1,13 @@
 # StableBattle Contract Deployment Journal
+#### 08-06-2023 - StableBattle [v0.0.22](https://github.com/StableBattle/stable-battle-contracts/tree/0.0.22)
+- Clan facet fixes and minor imporvements
+##### Goerli
+###### StableBattle
+- adr: [0xC7bae810B3AB2cBBfa72C151Ccbd21019E4d7080](https://goerli.etherscan.io/address/0xC7bae810B3AB2cBBfa72C151Ccbd21019E4d7080)
+- tx: [0x379addc547f61fae6bcc6ba1c27730cbb8e275f6d673d728d5e0540a1e55ec1d](https://goerli.etherscan.io/tx/0x379addc547f61fae6bcc6ba1c27730cbb8e275f6d673d728d5e0540a1e55ec1d)
+###### BEER
+- adr: [0x4B3B55F74f67496edBdF0514b833F918986F4028](https://goerli.etherscan.io/address/0x4B3B55F74f67496edBdF0514b833F918986F4028)
+- tx: [0x6afaf817325119781d6b3dcda390fac79dea82d9a3cb11dc4bf21ff2de5b5a64](https://goerli.etherscan.io/tx/0x6afaf817325119781d6b3dcda390fac79dea82d9a3cb11dc4bf21ff2de5b5a64)
 #### 24-05-2023 - Lootboxes [v0.0.1](https://github.com/StableBattle/stable-battle-lootboxes/tree/0.0.1)
 - Deployed first iteration of lootboxes
 ##### Goerli
