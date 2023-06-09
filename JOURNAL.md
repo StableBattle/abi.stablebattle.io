@@ -4,10 +4,10 @@
 ##### Goerli
 ###### StableBattle
 - adr: [0xC7bae810B3AB2cBBfa72C151Ccbd21019E4d7080](https://goerli.etherscan.io/address/0xC7bae810B3AB2cBBfa72C151Ccbd21019E4d7080)
-- tx: [0x379addc547f61fae6bcc6ba1c27730cbb8e275f6d673d728d5e0540a1e55ec1d](https://goerli.etherscan.io/tx/0x379addc547f61fae6bcc6ba1c27730cbb8e275f6d673d728d5e0540a1e55ec1d)
+- tx: [0x668b51179ccdc7ccc7ab16043936a6ca650c999a501daec1c229f153d3c645f7](https://goerli.etherscan.io/tx/0x668b51179ccdc7ccc7ab16043936a6ca650c999a501daec1c229f153d3c645f7)
 ###### BEER
 - adr: [0x4B3B55F74f67496edBdF0514b833F918986F4028](https://goerli.etherscan.io/address/0x4B3B55F74f67496edBdF0514b833F918986F4028)
-- tx: [0x6afaf817325119781d6b3dcda390fac79dea82d9a3cb11dc4bf21ff2de5b5a64](https://goerli.etherscan.io/tx/0x6afaf817325119781d6b3dcda390fac79dea82d9a3cb11dc4bf21ff2de5b5a64)
+- tx: [0xf9ffd49cf91adbd7d6cfb2627fc8193b75664a667dc9352433d3c6ea676dc57d](https://goerli.etherscan.io/tx/0xf9ffd49cf91adbd7d6cfb2627fc8193b75664a667dc9352433d3c6ea676dc57d)
 #### 24-05-2023 - Lootboxes [v0.0.1](https://github.com/StableBattle/stable-battle-lootboxes/tree/0.0.1)
 - Deployed first iteration of lootboxes
 ##### Goerli
