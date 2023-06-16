@@ -1,12 +1,13 @@
 # StableBattle Contract Deployment Journal
 #### 16-06-2023 - Lootboxes [v0.0.2](https://github.com/StableBattle/stable-battle-lootboxes/tree/0.0.2)
-- No important interface changes
+- No changes from previous version
 ##### Goerli
 ###### Lootboxes
-- adr: [0x4e2fBDaBA89a1eDF7a87bF9E737683706b2F2202] (https://goerli.etherscan.io/address/0x4e2fBDaBA89a1eDF7a87bF9E737683706b2F2202)
-- tx: [0x71b1b4245ca5a540388d2f09efd50d2b668822b6d84b14606c32dc05ea8479b4] (https://goerli.etherscan.io/tx/0x71b1b4245ca5a540388d2f09efd50d2b668822b6d84b14606c32dc05ea8479b4)
+- adr: [0x4e2fBDaBA89a1eDF7a87bF9E737683706b2F2202](https://goerli.etherscan.io/address/0x4e2fBDaBA89a1eDF7a87bF9E737683706b2F2202)
+- tx: [0x71b1b4245ca5a540388d2f09efd50d2b668822b6d84b14606c32dc05ea8479b4](https://goerli.etherscan.io/tx/0x71b1b4245ca5a540388d2f09efd50d2b668822b6d84b14606c32dc05ea8479b4)
 #### 08-06-2023 - StableBattle [v0.0.22](https://github.com/StableBattle/stable-battle-contracts/tree/0.0.22)
 - Clan facet fixes and minor imporvements
+- Fixed joinClan bug for characters stuck in abandoned clans
 ##### Goerli
 ###### StableBattle
 - adr: [0xC7bae810B3AB2cBBfa72C151Ccbd21019E4d7080](https://goerli.etherscan.io/address/0xC7bae810B3AB2cBBfa72C151Ccbd21019E4d7080)
@@ -18,8 +19,8 @@
 - Deployed first iteration of lootboxes
 ##### Goerli
 ###### Lootboxes
-- adr: [0x39Bf75da1008aC840Fc8Fe8639f5BE4F7785B9f1] (https://goerli.etherscan.io/address/0x39Bf75da1008aC840Fc8Fe8639f5BE4F7785B9f1)
-- tx: [0x1d97b199b969f636e8a1ec712cff5754d739ccf32a66442755ddd955b013d1c0] (https://goerli.etherscan.io/tx/0x1d97b199b969f636e8a1ec712cff5754d739ccf32a66442755ddd955b013d1c0)
+- adr: [0x39Bf75da1008aC840Fc8Fe8639f5BE4F7785B9f1](https://goerli.etherscan.io/address/0x39Bf75da1008aC840Fc8Fe8639f5BE4F7785B9f1)
+- tx: [0x1d97b199b969f636e8a1ec712cff5754d739ccf32a66442755ddd955b013d1c0](https://goerli.etherscan.io/tx/0x1d97b199b969f636e8a1ec712cff5754d739ccf32a66442755ddd955b013d1c0)
 #### 26-04-2023 - [v0.0.21](https://github.com/StableBattle/stable-battle-contracts/tree/0.0.21)
 - Minor changes
 ##### Goerli
